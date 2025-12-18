@@ -1,0 +1,81 @@
+header .hero-img {
+    width: 300px;
+    margin: 20px auto;
+    display: block;
+}
+
+
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header / Hero Section */
+header {
+    background: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+header h1 {
+    font-size: 3em;
+    margin: 0;
+}
+header p {
+    font-size: 1.2em;
+    margin: 10px 0 30px;
+}
+header button {
+    background: white;
+    color: #4CAF50;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+/* Features Section */
+section {
+    padding: 60px 20px;
+    text-align: center;
+}
+.features {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+.feature {
+    width: 200px;
+}
+.feature h3 {
+    margin-top: 10px;
+}
+
+/* Call to Action Section */
+.cta {
+    background: #f4f4f4;
+    padding: 50px 20px;
+    text-align: center;
+}
+.cta button {
+    background: #4CAF50;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+/* Footer Section */
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
