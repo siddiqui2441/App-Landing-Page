@@ -1,0 +1,27 @@
+Thank you for purchasing the Business Landing Page Template!
+
+FILES INCLUDED:
+- HTML
+- CSS
+
+HOW TO USE:
+1. Extract the ZIP file
+2. Open the folder
+3. Open index.html in your browser
+
+CUSTOMIZATION:
+- Edit text in index.html
+- Edit styles in css/style.css
+- Change colors, fonts, sections easily
+
+RESPONSIVE:
+- Fully responsive for mobile & desktop
+
+DEPLOY ON NETLIFY:
+1. Go to https://netlify.com
+2. Drag & drop the project folder
+3. Your site will be live instantly
+
+SUPPORT:
+Email: abdullahsidd4463@gmail.com
+contact: 03445929511
